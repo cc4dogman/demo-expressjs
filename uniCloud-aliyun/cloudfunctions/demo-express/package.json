@@ -6,6 +6,6 @@
   "cloudfunction-config": {
     "memorySize": 128,
     "timeout": 5,
-    "path": "/http/api"
+    "path": "/http/express"
   }
 }
